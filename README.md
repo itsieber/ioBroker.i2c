@@ -62,6 +62,9 @@ If you require a missing devcies, please provide the type of IC (brand, model, .
 
 ## Changelog
 
+### 0.0.5
+* (itSieberAG) Improve Startup Relais ON.
+
 ### 0.0.4
 * (UncleSamSwiss) Improved stability of MCP23017.
 * (Apollon77) Latest ioBroker utils and testing including node 10.
